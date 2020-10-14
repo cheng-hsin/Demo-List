@@ -30,9 +30,10 @@ class App extends Component {
       <div className="tc">
         <div className='bw2  ba b--blue bg-light-yellow'>
         <h1  >Demo database</h1>
+        <SearchBox searchChange={this.onSearchChange} />
         </div>
       
-      <SearchBox searchChange={this.onSearchChange} />
+      
       <DemoList demos={filtereddemos}/>
     </div>
     );
