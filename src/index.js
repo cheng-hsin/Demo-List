@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App_208410018';
+import './index_18.css';
+import App_18 from './App_18';
 import 'tachyons';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App/>
+    <App_18 />
   </React.StrictMode>,
   document.getElementById('root')
 );

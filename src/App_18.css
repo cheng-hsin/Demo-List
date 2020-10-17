@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Go Retro LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Go Retro LOGO FONT') url('Go Retro.TTF'), format('truetype');
+}
+h1 {
+  font-family: 'Go Retro LOGO FONT';
+  font-weight: 200;
+  color: #070706;
+}

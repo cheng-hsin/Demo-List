@@ -1,12 +1,12 @@
 import React from 'react'
-import Demo from './Demo_208410018'
+import Demo_18 from './Demo_18'
 
-export const DemoList = ({demos}) => {
+export const DemoList_18 = ({demos}) => {
     return (
         <div>
             {demos.map((project,i) => {
                 return(
-                    <Demo
+                    <Demo_18
                     key={i}
                     img={project.img}
                     name={project.name}
@@ -18,4 +18,4 @@ export const DemoList = ({demos}) => {
     )
 }
 
-export default DemoList
+export default DemoList_18

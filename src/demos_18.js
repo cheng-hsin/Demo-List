@@ -7,7 +7,7 @@ export const demos = [
     {
         img:'calculator',
         name:'Unconventional calculator',
-        description:'A UNCONVENTIONAL CALCULATOR!',
+        description:'An UNCONVENTIONAL CALCULATOR!',
     },
     {
         img:'music',
