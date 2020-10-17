@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Demo-List/static/css/main.3fcd11d6.chunk.css",
-    "main.js": "/Demo-List/static/js/main.3aaf382d.chunk.js",
-    "main.js.map": "/Demo-List/static/js/main.3aaf382d.chunk.js.map",
+    "main.css": "/Demo-List/static/css/main.e574c5de.chunk.css",
+    "main.js": "/Demo-List/static/js/main.be453cd3.chunk.js",
+    "main.js.map": "/Demo-List/static/js/main.be453cd3.chunk.js.map",
     "runtime-main.js": "/Demo-List/static/js/runtime-main.3c35265b.js",
     "runtime-main.js.map": "/Demo-List/static/js/runtime-main.3c35265b.js.map",
     "static/css/2.3c03f26f.chunk.css": "/Demo-List/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.477067de.chunk.js": "/Demo-List/static/js/2.477067de.chunk.js",
-    "static/js/2.477067de.chunk.js.map": "/Demo-List/static/js/2.477067de.chunk.js.map",
+    "static/js/2.f1588fef.chunk.js": "/Demo-List/static/js/2.f1588fef.chunk.js",
+    "static/js/2.f1588fef.chunk.js.map": "/Demo-List/static/js/2.f1588fef.chunk.js.map",
     "index.html": "/Demo-List/index.html",
-    "precache-manifest.09c80f33c91aa91a6cccf6a702c17162.js": "/Demo-List/precache-manifest.09c80f33c91aa91a6cccf6a702c17162.js",
+    "precache-manifest.cd498826ca71519049737e3c31bd8621.js": "/Demo-List/precache-manifest.cd498826ca71519049737e3c31bd8621.js",
     "service-worker.js": "/Demo-List/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/Demo-List/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.3fcd11d6.chunk.css.map": "/Demo-List/static/css/main.3fcd11d6.chunk.css.map",
-    "static/js/2.477067de.chunk.js.LICENSE.txt": "/Demo-List/static/js/2.477067de.chunk.js.LICENSE.txt",
+    "static/css/main.e574c5de.chunk.css.map": "/Demo-List/static/css/main.e574c5de.chunk.css.map",
+    "static/js/2.f1588fef.chunk.js.LICENSE.txt": "/Demo-List/static/js/2.f1588fef.chunk.js.LICENSE.txt",
+    "static/media/App_18.css": "/Demo-List/static/media/Go Retro.c663df78.TTF",
     "static/media/calculator.PNG": "/Demo-List/static/media/calculator.30ca8c7a.PNG",
     "static/media/card.PNG": "/Demo-List/static/media/card.5ad977b3.PNG",
     "static/media/class.PNG": "/Demo-List/static/media/class.473e6cb5.PNG",
@@ -28,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.3c35265b.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.477067de.chunk.js",
-    "static/css/main.3fcd11d6.chunk.css",
-    "static/js/main.3aaf382d.chunk.js"
+    "static/js/2.f1588fef.chunk.js",
+    "static/css/main.e574c5de.chunk.css",
+    "static/js/main.be453cd3.chunk.js"
   ]
 }
