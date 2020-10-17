@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import DemoList_18 from './DemoList_18';
-import { demos } from './demos_18';
-import SearchBox_18 from './SearchBox_18';
-import Scroll_18 from './Scroll_18';
+import DemoList_18 from '../component/DemoList_18';
+import { demos } from '../demos_18';
+import SearchBox_18 from '../component/SearchBox_18';
+import Scroll_18 from '../component/Scroll_18';
 import './App_18.css';
 
 class App_18 extends Component {
